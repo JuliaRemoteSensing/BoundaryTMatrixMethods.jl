@@ -1,0 +1,20 @@
+# Julia build and local environment state
+Manifest.toml
+*.ji
+*.cov
+*.mem
+
+# Local scratch output
+*.log
+tmp/
+scratch/
+
+# Generated validation artifacts kept out of the package repository by default.
+# Keep the scripts and docs in git; publish large figures/data separately.
+paper_validation/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

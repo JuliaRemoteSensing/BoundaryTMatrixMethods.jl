@@ -1,0 +1,13 @@
+*.gitattributes text eol=lf
+*.jl text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.cff text eol=lf
+*.py text eol=lf
+LICENSE text eol=lf
+
+# Keep GitHub's language card focused on the package implementation.
+scripts/*.py linguist-vendored
+docs/** linguist-documentation

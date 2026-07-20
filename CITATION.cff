@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use BoundaryTMatrixMethods.jl, please cite this software."
+title: "BoundaryTMatrixMethods.jl"
+authors:
+  - name: "xiongyuup"
+version: 0.1.0
+date-released: 2026-07-20
+repository-code: "https://github.com/JuliaRemoteSensing/BoundaryTMatrixMethods.jl"
+license: MIT
+abstract: "Julia SVM and PMM boundary-matching T-matrix methods with TransitionMatrices.jl interoperability and residual diagnostics."
